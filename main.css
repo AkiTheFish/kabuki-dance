@@ -1,0 +1,24 @@
+body {
+
+    text-align: center;
+    background-color: rgb(220, 138, 255);
+
+}
+
+.video {
+
+    border: 7.5px solid rgb(197, 62, 255);
+
+}
+
+h1 {
+
+    @font-face {
+        font-family: Quicksand;
+        src: url(Quicksand Regular 400.ttf);
+    }
+
+    font-family: Quicksand;
+    color: rgb(197, 62, 255);
+
+}
